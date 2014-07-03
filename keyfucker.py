@@ -5,7 +5,7 @@ Keyfucker v0.1
 Author: Oscar Maestre
 mail: oscarlibre@gmail.com
 '''
-from lista_teclas import teclas
+from keylist import teclas
 from threading import Thread
 import commands, os
 import time, sys
