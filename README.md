@@ -1,4 +1,4 @@
 keyfucker
 =========
 
-A simple Linux Keylogger 
+A simple GNU/Linux Keylogger 
